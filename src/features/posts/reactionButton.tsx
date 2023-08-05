@@ -9,7 +9,7 @@ const reactionEmoji = {
     rocket: '🚀',
     coffee: '☕'
 }
-type propsType = {
+export type propsType = {
     post: postType
 }
 
